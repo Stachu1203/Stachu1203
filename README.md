@@ -6,7 +6,7 @@
   
   <h3>🚀 Languages I Use</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,react,sql" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,react,tsql" alt="My Skills" />
   </p>
 
   <br />
